@@ -80,7 +80,7 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-20">
             <div className="flex-shrink-0 font-bold text-2xl tracking-tighter text-white">
-              Lucas<span className="text-cyan-500">.Dev</span>
+              Lucas <span className="text-cyan-500">Devs</span>
             </div>
             
             {/* Desktop Menu */}
@@ -252,7 +252,7 @@ function App() {
       <footer className="bg-slate-950 py-8 border-t border-slate-900">
         <div className="max-w-7xl mx-auto px-4 text-center">
           <p className="text-slate-500 text-sm">
-            © {new Date().getFullYear()} Lucas Dev. Todos os direitos reservados.
+            © {new Date().getFullYear()} Lucas Devs. Todos os direitos reservados.
           </p>
         </div>
       </footer>
